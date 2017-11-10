@@ -1,0 +1,18 @@
+.background    { background: #4fab51;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: #ae1621; }
+.wall          { background: #516a66;   }
+.floater 	   { background: #428bca;}
+
+.actor         {position: absolute;}
+.player        {background: blue;}
+.coin {        background:green;}
+.coin2  {      background: purple;} 
+.game {
+  position: relative;
+max-height:500px;
+max-width:650px;
+overflow:hidden;
+}
